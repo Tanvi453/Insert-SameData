@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  font-family: LGBold !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: #3c123e;
+}
+
+button {
+  font-family: LGBold !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  background-color: transparent;
+  border: 2px #826407 solid;
+  height: 50px;
+  width: 150px;
+  color: #3c123e;
+  border-radius: 10px;
+}
+
+input{
+  font-family: LGBold !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  background-color: transparent;
+  border: 2px #826407 solid;
+  height: 30px;
+  width: 300px;
+  color: #3c123e;
+  border-radius: 10px;
+}
